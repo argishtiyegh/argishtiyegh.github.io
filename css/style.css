@@ -85,12 +85,17 @@
 .dropp ul {
     min-width: 50px;
 }
+
 .nav, .navbar-nav {
     background: white;
     border: none;
     width: 100%;
     padding: 0px;
-    margin: 0px;
+   
+}
+
+.nav {
+     margin: 0px;
 }
 
 .navbar-default{
